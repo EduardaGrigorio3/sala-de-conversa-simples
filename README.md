@@ -6,7 +6,6 @@ Este é um projeto simples de sala de conversa, desenvolvido para demonstrar a i
 
 * **Interface Clara:** Uma interface simples e intuitiva para simular uma conversa.
 * **Mensagens Bidirecionais:** Permite que tanto Alice quanto Bob enviem mensagens.
-* **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela.
 * **Marcação de Usuário:** As mensagens são exibidas com cores diferentes para cada usuário (azul para Alice e verde para Bob), facilitando a visualização da conversa.
 
 ## Tecnologias Utilizadas
@@ -21,12 +20,9 @@ Para testar o projeto, basta seguir os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [Link do seu repositório]
+    git clone [https://github.com/EduardaGrigorio3/sala-de-conversa-simples.git](https://github.com/EduardaGrigorio3/sala-de-conversa-simples.git)
     ```
-2.  **Abra o arquivo no navegador:**
-    Navegue até a pasta do projeto e abra o arquivo `conversa.html` no seu navegador preferido.
-
-Você também pode usar a extensão **Live Server** no VS Code para abrir o projeto em um servidor local e aproveitar recursos de recarga automática.
+Use a extensão **Live Server** no VsCode para abrir o projeto.
 
 ## Autor
 
